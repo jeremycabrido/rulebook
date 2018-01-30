@@ -1,0 +1,296 @@
+{
+  "penalties": {
+    "penalty": [
+      {
+        "name": "Blocking below the waist",
+        "description": "An illegal block, from any direction, below the waist by any defensive player or by an offensive player under certain situations, by any player after change of possession, by any player in high school with certain exceptions. Sometimes incorrectly referred to as a \"chop block\".",
+        "yardage_nfl": "15 yards; automatic first down if committed by the defense",
+        "yardage_ncaa": "15 yards; automatic first down if committed by the defense"
+      },
+      {
+        "name": "Block in the back",
+        "description": "A blocker contacting a non-ballcarrying member of the opposing team from behind and above the waist. Called an \"illegal block\" in the CFL.",
+        "yardage_nfl": "10 yards",
+        "yardage_ncaa": "10 yards"
+      },
+      {
+        "name": "Chop block",
+        "description": "An offensive player tries to cut block a defensive player that is already being blocked by another offensive player. The second block may need to be below the thigh or knee, depending on the code.",
+        "yardage_nfl": "15 yards (if it is in the end zone the play will be ruled a safety); automatic first down if committed by defense (penalty also counts regardless of how many yards the offense gained).",
+        "yardage_ncaa": "15 yards; automatic first down if committed by defense (penalty also counts regardless of how many yards the offense gained)."
+      },
+      {
+        "name": "Clipping",
+        "description": "A blocker contacting a non-ballcarrying opponent from behind and at or below the waist",
+        "yardage_nfl": "15 yards; automatic first down if committed by defense",
+        "yardage_ncaa": "15 yards; automatic first down if committed by defense"
+      },
+      {
+        "name": "Delay of game",
+        "description": "Any action which delays the next play. In the US, on offense, this includes failing to snap the ball before the play clock reaches zero. (In the CFL, that action is a time count violation.) It may also include spiking the ball. On defense, it occurs when a player hinders the offense in hurrying to make the next snap. This happens most often in the last two minutes of a half when the offense is trying to go down the field in a hurry. The defense can also be flagged for a delay of game if a player spikes the ball after the end of a play. On special teams, it happens when the return team runs after signaling for a fair catch, or the defense does not unpile in a timely manner after the play ends.",
+        "yardage_nfl": "5 yards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Encroachment",
+        "description": "Before the snap, a defensive player illegally crosses the line of scrimmage and makes contact with an opponent or has a clear path to the quarterback. In high school, this includes any crossing of the neutral zone by either team, whether contact is made or not. The play is not allowed to begin. In the CFL, this is considered an offside foul.",
+        "yardage_nfl": "5 yards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Equipment violation",
+        "description": "Any player in the game without necessary safety equipment (mouthpiece, pads), without chin straps properly fastened or in violation of certain clothing rules (e.g. sock requirements in college).",
+        "yardage_nfl": "-",
+        "yardage_ncaa": "Timeout charged against the offending player's team"
+      },
+      {
+        "name": "Face mask",
+        "description": "Grasping the face mask of another player while attempting to block or tackle him. In the NFL, the grasping and pulling/twisting must be intentional to be penalized. Under NCAA rules, it is a foul to grasp and twist the face mask. Under high school rules, any grasping of the face mask, any helmet opening, or the chin strap is a foul, though grasping and twisting carries a more severe penalty than \"incidental\" grasping without any twisting.",
+        "yardage_nfl": "One arm in front of the body, forearm extended vertically.  The hand is closed into a fist in front of the face and pulled downward",
+        "yardage_ncaa": "15 yards; automatic first down if committed by defense"
+      },
+      {
+        "name": "False start",
+        "description": "An offensive player illegally moves after lining up for—but prior to—the snap. Since the ball is dead, the down does not begin. Any player who moves after he has gotten in his set position before the snap in a way that simulates the start of the play. Called \"[illegal] procedure\" in the CFL.",
+        "yardage_nfl": "5 yards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Helmet-to-helmet collision",
+        "description": "The act of banging one's helmet into the helmet of another player. Can also result in a fine and/or suspension.",
+        "yardage_nfl": "xxx",
+        "yardage_nca": "xxx"
+      },
+      {
+        "name": "Holding",
+        "description": "Illegally grasping or pulling an opponent other than the ball carrier while attempting to ward off a block or cover a receiver. One of the most commonly called penalties. If a penalty for holding that occurred in the offense's end zone is accepted, a safety results.",
+        "yardage_nfl": "Offense, 10 yards. If it is called in the end zone by the offense, it's an automatic safety; defense, 5 yards and automatic first down.",
+        "yardage_ncaa": "10 yards"
+      },
+      {
+        "name": "Horse-collar tackle",
+        "description": "Illegally tackling another player by grabbing the inside of the ball carrier's shoulder pads or jersey from behind and yanking the player down.",
+        "yardage_nfl": "15 yards, automatic first down if committed by defense (penalty also counts regardless of how many yards the offense gained).",
+        "yardage_ncaa": "15 yards, automatic first down if committed by defense (penalty also counts regardless of how many yards the offense gained)."
+      },
+      {
+        "name": "Illegal batting",
+        "description": "Any intentional batting of a loose ball or ball in player possession. Batting is legal in certain limited situations, such as blocking a kick or deflecting a forward pass (any eligible player may bat a forward pass in any direction).",
+        "yardage_nfl": "10 yards",
+        "yardage_ncaa": "10 yards"
+      },
+      {
+        "name": "Illegal contact",
+        "description": "Making significant contact with a receiver after the receiver has advanced five yards beyond the line of scrimmage. The illegal contact is called only if the quarterback is still in pocket and the ball is still in his hands. This rule was adopted in 1978, and its enactment is regarded as contributing to the increase in passing efficiency the NFL has witnessed since that time.",
+        "yardage_nfl": "5 yards and an automatic first down",
+        "yardage_ncaa": "Does not exist"
+      },
+      {
+        "name": "Illegal formation",
+        "description": "Fewer than 7 players line up on the line of scrimmage (NFL/High School/CFL); more than four players in the backfield (NCAA only); eligible receivers fail to line up as the leftmost and rightmost players on the line (NFL/CFL); or when five properly numbered ineligible players fail to line up on the line. Announced as \"[illegal] procedure\" or \"procedure, no end\" in the CFL.",
+        "yardage_nfl": "5 tards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Illegal forward pass",
+        "description": "A forward pass is thrown from past the line of scrimmage, or a second forward pass is thrown on the same play. (US) A forward pass is thrown after change of possession.",
+        "yardage_nfl": "5 yards from the spot of the foul and loss of down",
+        "yardage_ncaa": "5 yards from the spot of the foul and loss of down"
+      },
+      {
+        "name": "Illegal hands to the face",
+        "description": "Pushing or hitting a player on offense in the head or helmet",
+        "yardage_nfl": "10 yards if committed by offense; 5 yards and automatic first down if committed by defense",
+        "yardage_ncaa": "15 yards (personal foul); automatic first down if committed by defense (penalty also counts regardless of how many yards the offense gained)."
+      },
+      {
+        "name": "Illegal kick",
+        "description": "Any ball not kicked in accordance with the rules, for instance: 1) When an attempted drop kick bounces more than once before being kicked 2) When a player kicks the ball after a turnover or receiving an opponent's kick (the \"return kick\") 3) When a player kicks the ball after having advanced the ball past the line of scrimmage",
+        "yardage_nfl": "15 yards",
+        "yardage_ncaa": "10 yards"
+      },
+      {
+        "name": "Illegal kickoff",
+        "description": "The ball, after a kickoff, heads out of bounds between both goal lines without touching any player on either team.",
+        "yardage_nfl": "Receiving team awarded possession 25 yards from spot of kickoff, or at spot out of bounds, whichever is more advantageous.",
+        "yardage_ncaa": "Five yards from the previous spot (with the kick retaken); or five yards from the spot where the subsequent dead ball belongs to the receiving team; or the receiving team may put the ball in play 30 yards beyond the kicking team's restraining line."
+      },
+      {
+        "name": "Illegal motion",
+        "description": "A player in motion is moving forward at the time of the snap.",
+        "yardage_nfl": "5 yards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Illegal participation",
+        "description": "Twelve or more players participate during the play, because the extra players either are not detected before the snap or enter during the play. Once the down begins, no further players may enter the field and participate, even if there are fewer than 11 players. Illegal participation is also called when an offensive player goes out of bounds (unless forced out by contact by the defense) and returns during the play.",
+        "yardage_nfl": "Does not exist",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Illegal shift",
+        "description": "A player is not in motion but is not set before the snap; more than one player is in motion at the snap; or after more than one player was moving (shifting), all eleven players have not been motionless for one second.",
+        "yardage_nfl": "5 yards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Substitution infraction/Illegal Substitution/Too many men on the field",
+        "description": "The offense has twelve or more players in the huddle for a period of 3–5 seconds; or twelve or more players are in the formation before a play; or a player is attempting to leave the field as the ball is snapped; or an offensive player entering the field fails to step at least nine yards from the sideline (inside the field's yardage numbers) before the snap; or a player who has been suspended or disqualified attempts to enter the field of play.",
+        "yardage_nfl": "5 yards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Illegal touching of a forward pass",
+        "description": "A forward pass first touches an ineligible receiver (an offensive lineman). If the ball is touched by the defenders first, any player may touch it.",
+        "yardage_nfl": "5 yards and a loss of down",
+        "yardage_ncaa": "5 yards (if touched by an originally ineligible receiver) / 5 yards and loss of down (if touched by an originally eligible receiver who voluntarily went out of bounds)"
+      },
+      {
+        "name": "Illegal touching of a free kick",
+        "description": "The ball, after the free kick, first touches a member of the kicking team prior to travelling 10 yards. This is most often seen on an onside kick where a member of the kicking team prematurely comes in contact with the ball in an attempt to recover it. Like illegal touching of a forward pass, if a defender (member of the receiving team) first touches the ball, any player may touch it. Note: in NFHS it is called 'first touching', not 'illegal touching'. It is also illegal touching for a kicking team player to touch a free kick after going out of bounds, unless the kick is touched by the receiving team.",
+        "yardage_nfl": "5 yards, unless the illegal touching occurs inside the receiving team's 5 yard line. In that case, it is ruled a touchback.",
+        "yardage_ncaa": "Five yards from the previous spot, or five yards from the spot where the subsequent dead ball belongs to the receiving team, or from the spot where the ball is placed after a touchback."
+      },
+      {
+        "name": "Illegal touching of a scrimmage kick",
+        "description": "The ball, during the scrimmage kick, is touched by a kicking team player, unless the kick is touched by the receiving team or another member of the kicking team.",
+        "yardage_nfl": "Does not exist",
+        "yardage_ncaa": "Not a foul. Receiving team has the option of taking possession at the spot of illegal touching unless it commits a foul."
+      },
+      {
+        "name": "Illegal use of hands",
+        "description": "Illegal use of the hands against a player on offense while attempting to ward off a block, cover a receiver, or tackle a ball carrier. There are several restrictions on how a defender may initiate contact.",
+        "yardage_nfl": "10 yards if committed by offense; 5 yards and automatic first down if committed by defense",
+        "yardage_ncaa": "10 yards, automatic first if committed by defense against an eligible receiver"
+      },
+      {
+        "name": "Ineligible receiver downfield",
+        "description": "An ineligible receiver is past the line of scrimmage prior to a forward pass. Ineligible receivers must wait until the pass is thrown beyond the line of scrimmage (or touched) before moving past the line of scrimmage. This exception has been added to accommodate the screen pass, where a receiver (most often a back, but sometimes a tight end or wide receiver) catches a ball behind the line of scrimmage behind a \"screen\" of offensive linemen.",
+        "yardage_nfl": "5 yards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Intentional grounding",
+        "description": "A forward pass is thrown intentionally incomplete so that the passer avoids loss of yardage or to conserve time. Not assessed if the ball is spiked. If the quarterback has moved outside of the area between his offensive tackles (the \"tackle box\" or more commonly called \"the pocket\"), there is no foul for grounding the ball if the quarterback throws the ball past the line of scrimmage. High school is more restrictive: spiking the ball is only allowed if the quarterback is under center, and the quarterback may not legally throw the ball away when outside the \"tackle box.\"",
+        "yardage_nfl": "10 yards or spot of foul, whichever is farther from the original line of scrimmage, and loss of down. If the foul occurs in the end zone, the play is ruled a safety.",
+        "yardage_ncaa": "Spot of foul and loss of down (safety if the foul occurs in the end zone)."
+      },
+      {
+        "name": "Leaping",
+        "description": "A defender at least one yard in front of the line of scrimmage running forward and leaping in an attempt to block a field goal or a point-after try lands on other players on either team. The penalty is not called if the defender was within one yard of the line of scrimmage at the time of the snap.",
+        "yardage_nfl": "15 yard penalty; automatic first down if committed by defense (penalty also counts regardless of how many yards the offense gained).",
+        "yardage_ncaa": "15 yard penalty; automatic first down if committed by defense (penalty also counts regardless of how many yards the offense gained)."
+      },
+      {
+        "name": "Leverage",
+        "description": "A defensive player jumping or standing on a teammate or an opponent to block or attempt to block an opponent's kick.",
+        "yardage_nfl": "15 yard penalty and automatic first down",
+        "yardage_ncaa": "15 yards"
+      },
+      {
+        "name": "Neutral Zone Infraction",
+        "description": "Before the snap, a defensive player (most often a lineman) jumps into the neutral zone and \"startles\" an offensive player, causing him to false start.",
+        "yardage_nfl": "5 yards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Offside",
+        "description": "A player is on the wrong side of the line of scrimmage (or in the neutral zone) when the ball is snapped. This foul occurs simultaneously with the snap. Unlike offensive players, defensive players are not compelled to come to a set position before the snap. If a defender jumps across the line but gets back to his side before the snap, there is no foul. In the case of an offside foul, play is not stopped, and the foul is announced at the conclusion of the play. Media covering the games call it a \"free play\" for the offense, as the non-offending team may decline the penalty and take the yardage gained on the play (and when the play works against them, like a turnover to the opposing team, the non-offending team can accept the penalty and retake possession of the ball) - unlike in the case of a false start foul against the offense, whereupon the play is immediately stopped by the officials. This foul is almost always committed by the defense (any offensive player that moves into the neutral zone after setting would be charged with a false start). However, it is possible for the offense to commit this foul. If an offensive player lines up in the neutral zone, an offside foul will be called against the offense.",
+        "yardage_nfl": "5 yards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Offside pass",
+        "description": "Any act to direct the ball forward (toward the opponent's dead/end line) other than a kick or a forward pass. This includes batting the ball and forward passes after change of possession.",
+        "yardage_nfl": "see Illegal batting or Illegal forward pass",
+        "yardage_ncaa": "see Illegal batting or Illegal forward pass"
+      },
+      {
+        "name": "Pass interference",
+        "description": "Making physical contact with an intended receiver (intentional physical contact in NFL), after the ball has been thrown and before it has been touched by another player, in order to hinder or prevent him from catching a forward pass. (On offense, the restriction begins at the snap and continues until the ball is touched in order to prevent receivers from blocking defenders away from a passed ball.)",
+        "yardage_nfl": "Offense, 10 yards; defense, spot of foul (or placement on the 1 yard line if the foul occurs in the end zone) and automatic first down",
+        "yardage_ncaa": "Offense, 15 yards; defense, lesser of 15 yards or the spot of the foul (or placement on the 2 yard line if the foul occurs in the end zone) and automatic first down"
+      },
+      {
+        "name": "Personal foul",
+        "description": "A conduct- or safety-related infraction. Includes unnecessary roughness, such as hitting a ball carrier after he is already out of bounds, \"piling on\" a ball carrier who is already down, or violent contact with an opponent who is away from and out of the play. If the officials decide that the action was particularly flagrant, the player in question can be ejected from the game.",
+        "yardage_nfl": "15 yards; automatic first down if committed by defense (penalty also counts regardless of how many yards the offense gained).",
+        "yardage_ncaa": "15 yards; automatic first down if committed by defense (penalty also counts regardless of how many yards the offense gained)."
+      },
+      {
+        "name": "Roughing the passer",
+        "description": "A defender continues an effort to tackle or \"hit\" a passer after the passer has already thrown a pass. (In the NFL, a defender is allowed to take one step after the ball is thrown; a defender is penalized if he hits the passer having taken two or more steps after the ball leaves the passer's hand, or if the passer is hit above the shoulders, or if the passer is targeted using the crown of the helmet.)",
+        "yardage_nfl": "15 yards and an automatic first down (penalty also counts regardless of how many yards the offense gained).",
+        "yardage_ncaa": "15 yards and an automatic first down (penalty may be enforced from the end of the run if the pass is completed, otherwise penalty is enforced from the previous spot)."
+      },
+      {
+        "name": "Roughing the kicker",
+        "description": "A defender, having missed an attempt to block a kick, tackles the kicker or otherwise runs into the kicker in a way that might injure the kicker or his vulnerable extended kicking leg. This protection is also extended to the holder of a place kick.",
+        "yardage_nfl": "15 yards and an automatic first down if committed by defense",
+        "yardage_ncaa": "15 yards and an automatic first down if committed by defense"
+      },
+      {
+        "name": "Roughing the snapper",
+        "description": "On a punt or field goal attempt, the long snapper is allowed to regain his balance and assume a protective position before he is contacted by the defense.",
+        "yardage_nfl": "15 yards and an automatic first down",
+        "yardage_ncaa": "15 yards and an automatic first down"
+      },
+      {
+        "name": "Running into the kicker",
+        "description": "On a kicking play where the defense fails to touch (\"block\") the kicked ball, the defense runs into the kicker/punter. If such an act occurs but is not intentional, this foul is assessed. If intentional, the personal foul of roughing the kicker is assessed instead (see above).",
+        "yardage_nfl": "5 yards",
+        "yardage_ncaa": "5 yards"
+      },
+      {
+        "name": "Sideline infraction",
+        "description": "A player is outside of the team box, a coach is outside the coaches' box (along the sideline in front of the team box), or too many coaches are in the coaches' box. (In high school, the penalty for a coach on the field of play is unsportsmanlike conduct, not a sideline infraction.)",
+        "yardage_nfl": "Does not exist",
+        "yardage_ncaa": "5 yards (first infraction) 15 yards (subsequent infractions, also unsportsmanlike conduct)"
+      },
+      {
+        "name": "Spearing",
+        "description": "Tackling or otherwise contacting an opponent with one's helmet. (This technique is illegal because of the risk of neck injuries to the tackler.)",
+        "yardage_nfl": "15 yards; automatic first down if committed by defense. Penalty also counts regardless of how many yards the offense gained. (Starting from 2017 season, this foul is no longer referred to as spearing in the NFL rulebook, but as \"targeting with the crown of the helmet\").",
+        "yardage_ncaa": "15 yards; automatic first down if committed by defense (this foul is no longer referred to as spearing in the NCAA rulebook, but as \"targeting with the crown of the helmet\")"
+      },
+      {
+        "name": "Targeting",
+        "description": "A defensive player tackles with the crown of his helmet, by initiating contact to the opponent's head above the player's neck, or makes helmet-to-helmet collision. Under NFL and NCAA rules, also applies when an offensive player initiates the same types of contact.",
+        "yardage_nfl": "Starting from 2017 season, the penalty will be 15 yards and automatic ejection. Penalty subject to video review. If hit is not deemed to be targeting by the video review, player allowed to stay in the game and yardage not enforced.",
+        "yardage_ncaa": "15 yards, ejection; if penalty occurs in second half, player is suspended for the first half of his team's next game. Penalty subject to video review. If hit is not deemed to be targeting by the video review, player allowed to stay in the game and yardage not enforced."
+      },
+      {
+        "name": "Time count violation",
+        "description": "On offense, failing to snap the ball before the play clock reaches zero",
+        "yardage_nfl": "Not applicable: see delay of game",
+        "yardage_ncaa": "Not applicable: see delay of game"
+      },
+      {
+        "name": "Tripping",
+        "description": "A player trips another player with the lower leg. Note that tripping the runner is legal under NCAA and NFHS rules.",
+        "yardage_nfl": "10 yards, automatic first down if committed by defense.",
+        "yardage_ncaa": "15 yards, automatic first down if committed by defense."
+      },
+      {
+        "name": "Unfair act",
+        "description": "Any illegal action in which the penalty is insufficient to offset the result of the act. The NFL rule (known as a palpably unfair act) also requires that the opposing team would have scored had the illegal act not happened, which is not required at the college or high school levels.",
+        "yardage_nfl": "Yardage or score at discretion of referee, possible disqualification",
+        "yardage_ncaa": "Any penalty at discretion of referee, up to and including forfeiture of the game."
+      },
+      {
+        "name": "Unsportsmanlike conduct",
+        "description": "Any person (usually a player but occasionally a coach and very rarely one or more spectators) acts or speaks in a manner deemed to be intentionally harmful or especially objectionable by the game officials, or by rule. Unsportsmanlike conduct is a non-contact foul; if contact is involved it becomes a personal foul. Examples include verbal abuse of officials, and taunting, which, since 2004 in the NFL, has included any \"prolonged and premeditated celebrations\" by players (prior to that year the latter carried only a 5-yard penalty). Later rules included using the football or end zone pylon in a touchdown celebration. If the officials decide that the action was particularly flagrant, the player, coach or spectator in question may be ejected from the game. In high school, if a single player, coach or spectator commits two unsportsmanlike conduct fouls, the person in question should automatically be ejected, a rule adopted by the NFL in 2016.",
+        "yardage_nfl": "15 yards, automatic first down if committed by defense (penalty also counts regardless of how many yards the offense gained).",
+        "yardage_ncaa": "15 yards. As of 2011, if the foul was committed (1) during a play that ended in a touchdown, (2) before the ball crossed the goal line, and (3) by the team that scored, the touchdown is nullified, and the penalty is assessed from the spot of the foul."
+      }
+    ]
+  },
+  "rules": {
+    "rule": [
+      {
+        "name": "rule",
+        "description": "rule description"
+      }
+    ]
+  }
+}
